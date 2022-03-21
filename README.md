@@ -2,5 +2,5 @@
 CRUD em Node para processo seletivo no ICTS
 
 Após baixar o arquivo, abra a pasta CRUD...;
-No terminal instale o servidor, comando "npm i";
-Após digite o comando "npm run start", para que o servidor seja iniciado na porta que estiver disponível;
+No terminal inicie o servidor, use o comando "npm i";
+Após digite o comando "npm run start", para que o servidor seja iniciado na porta disponível;
